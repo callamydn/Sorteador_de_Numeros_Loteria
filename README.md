@@ -4,7 +4,17 @@
 </div>
 <p> <h1 align='center'><strong> Projeto De Sorteador de Numeros das Loterias da Caixa em Python</strong></h1>
 
-<h3>A ideia principal é, criar um algoritimo que gere automatico os numeros dos respectivos jogos da caixa. </h3></p>
+<h3>A ideia principal é, criar um algoritimo que gere automatico os numeros dos respectivos jogos da caixa. </h3></p><br>
+<p> <h1 align='center'><strong> Atualizações Atuais   </strong></h1></p>
+
+<p> <h3> - Adicionado menu <br>
+- Aquivos . Jsons <br>
+</h3></p>
+<p> <h1 align='center'><strong> Atualizações Futuras  </strong></h1></p>
+<p><h3>- Savamento de Jogos <br>
+
+</h3></p>
+
 <p> <h1 align='center'><strong> Jogos   </strong></h1></p>
 
 ---
